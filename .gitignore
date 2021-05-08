@@ -1,2 +1,6 @@
-.vscode
+.DS_Store
+Thumbs.db
+.aleph/
+dist/
+.deno
 .scratch
